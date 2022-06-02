@@ -1,0 +1,43 @@
+#title {
+    font-weight: bolder;
+    font-style: italic;
+    color: darkgoldenrod;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    width: 400px;
+    box-shadow: 5px 5px 5px rgb(21, 31, 114);
+}
+#note {
+    font-weight: bolder;
+    font-style: italic;
+    color: darkgoldenrod;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    width: 800px;
+    box-shadow: 5px 5px 5px rgb(21, 31, 114);
+}
+#container {
+    background-color:rgb(72, 63, 194);
+    width:1000px;
+    box-shadow: 5px 5px 5px rgb(21, 31, 114);
+}
+#name {
+    font-weight: bolder;
+    font-style: italic;
+    color: darkgoldenrod;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    width: 400px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+canvas {
+    border:5px solid rgb(0, 4, 247);
+     border-radius:20px;
+ }
+ body {
+     background-size: cover;
+     background-position: center;
+ }
